@@ -1,0 +1,23 @@
+.heading-1 {
+    color: cadetblue;
+    font-size: 50px;
+    letter-spacing: 15;
+    font-weight: 600;
+    line-height: 10px;
+    font-family: 'Roboto', sans-serif;;
+}
+
+.introduction {
+    color: red;
+    font-size: 50;
+}
+.important-parts {
+    color: rgb(8, 237, 245);
+}
+.color-1 {
+    color:blueviolet;
+}
+.color-2 {
+    color: greenyellow;
+    font-family: 'Roboto', sans-serif;
+}
